@@ -113,4 +113,9 @@ mod tests {
         assert_eq!(chapter.pages.len(), 1);
         assert_eq!(chapter.pages[0].number, 1);
     }
+
+    #[test]
+    fn test_fails() {
+        assert!(false);
+    }
 }
