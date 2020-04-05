@@ -1,0 +1,1 @@
+# Test Github Workflows ![Tests](https://github.com/adaptiman/rust_github_testing/workflows/Tests/badge.svg)
